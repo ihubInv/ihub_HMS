@@ -39,4 +39,4 @@ The Hostel Management System is a full-stack web application designed to automat
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hostel-management-system.git
+git clone https://github.com/ihubInv/ihub_HMS.git
